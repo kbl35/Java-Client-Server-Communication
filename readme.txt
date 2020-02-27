@@ -41,6 +41,6 @@ Procedure to run:
 5. The program will run in a do-while loop with some input validations. it only exits the loop once you enter 'q' as a choice.
 
 
-* if there is any problem, please let me know at kbl35@txstate.edu. thanks
+
 
 	
